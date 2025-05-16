@@ -36,4 +36,21 @@ return dummy.next                # Return the real head, skipping the dummy node
 ```
 
 
+## Tip #4: Use is_prime after finding prime number pairs... for questions in volving prime number, dont create a list of prime number.
+it is slower.
+
+```python
+ef is_prime(n):
+    if n < 2:
+        return False
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+
+def get_primes_check(x):
+    return [i for i in range(2, x) if is_prime(I)]
+```
+
+
 
