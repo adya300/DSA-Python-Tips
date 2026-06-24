@@ -4,6 +4,9 @@ class Solution:
         if (len(nums)>M):
             return(M+1)
         else:
-            for i in range(0,M):
-                if i not in nums:
-                    return i
+            numss=sorted(nums)
+            count=0
+            for num in numss:
+                if num != count:
+                    return count
+                count+=1
