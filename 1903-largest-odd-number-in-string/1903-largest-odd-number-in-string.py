@@ -1,15 +1,6 @@
 class Solution:
     def largestOddNumber(self, num: str) -> str:
-        if len(num)>10**6:
-            return ""
-        m=""
-        result=0
-        for i in num:
-            m+=i
-            if int(i)%2!=0:
-                result=m
-        if result==0:
-            return ""
-        else:
-            return result
-                
+        for i in range(len(num)-1, -1, -1):
+            if int(num[i]) % 2 == 1:
+                return num[:i+1]
+        return ""
