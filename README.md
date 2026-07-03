@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/adya300/DSA-Python-Tips/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/adya300/DSA-Python-Tips/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/adya300/DSA-Python-Tips/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/adya300/DSA-Python-Tips/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adya300/DSA-Python-Tips/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/adya300/DSA-Python-Tips/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/adya300/DSA-Python-Tips/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/adya300/DSA-Python-Tips/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adya300/DSA-Python-Tips/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/adya300/DSA-Python-Tips/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
