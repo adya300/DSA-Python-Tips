@@ -1,9 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-      hasmap = {}
-      for i,num in enumerate(nums):
-        needed = target-num
-        if needed in hasmap:
-            return hasmap[needed],i
-
-        hasmap[num] = i  
+        for i,v in enumerate(nums):
+            need=target-v
+            for j,k in enumerate(nums):
+                if j==i:
+                    continue
+                elif k==need:
+                    return [i,j]
+        else:
+            return []
