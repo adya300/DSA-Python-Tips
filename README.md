@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/adya300/DSA-Python-Tips/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adya300/DSA-Python-Tips/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/adya300/DSA-Python-Tips/tree/master/0412-fizz-buzz) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adya300/DSA-Python-Tips/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/adya300/DSA-Python-Tips/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adya300/DSA-Python-Tips/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adya300/DSA-Python-Tips/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
