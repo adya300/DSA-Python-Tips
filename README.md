@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adya300/DSA-Python-Tips/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adya300/DSA-Python-Tips/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/adya300/DSA-Python-Tips/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/adya300/DSA-Python-Tips/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adya300/DSA-Python-Tips/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/adya300/DSA-Python-Tips/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
