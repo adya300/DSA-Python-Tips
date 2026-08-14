@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/adya300/DSA-Python-Tips/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adya300/DSA-Python-Tips/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adya300/DSA-Python-Tips/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/adya300/DSA-Python-Tips/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/adya300/DSA-Python-Tips/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/adya300/DSA-Python-Tips/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adya300/DSA-Python-Tips/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adya300/DSA-Python-Tips/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/adya300/DSA-Python-Tips/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/adya300/DSA-Python-Tips/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adya300/DSA-Python-Tips/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/adya300/DSA-Python-Tips/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adya300/DSA-Python-Tips/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adya300/DSA-Python-Tips/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/adya300/DSA-Python-Tips/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
