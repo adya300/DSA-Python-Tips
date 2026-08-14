@@ -6,13 +6,13 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        current = head
+        slow=fast = head
         if head==None or head.next==None:
             return False
         a=[]
-        while current!=None:
-            if current.next in a:
+        while fast!=None and fast.next!=None:
+            slow=slow.next
+            fast=fast.next.next
+            if slow==fast:
                 return True
-            a.append(current.next)
-            current=current.next
         return False
